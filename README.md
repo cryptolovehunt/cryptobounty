@@ -11,7 +11,7 @@
 
 | 汇总 | 更新 | 讨论中 |
 | :------------ |:---------------:| -----:|
-| [ KOL ](https://github.com/cryptolovehunt/cryptobounty/tree/main/kol) | **xxxx记忆** | [币圈牛熊记忆](https://github.com/cryptolovehunt/cryptobounty/issues/1#issue-1461049565) |
+| [ KOL ](https://github.com/cryptolovehunt/cryptobounty/tree/main/kol) | **xxxx记忆** | [币圈牛熊记忆 / 雷祯](https://github.com/cryptolovehunt/cryptobounty/issues/1#issue-1461049565) |
 | [ 人物 ](https://github.com/cryptolovehunt/cryptobounty/tree/main/publicfigure) | SBF | [ SBF ](https://github.com/cryptolovehunt/cryptobounty/issues/1#issue-1461049565) |
 | [ 事件 ](https://github.com/cryptolovehunt/cryptobounty/tree/main/case) | N/a | N/a |
 
