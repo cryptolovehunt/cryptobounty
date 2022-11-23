@@ -25,4 +25,4 @@
 ```
 
 ## 备用地址（防失联）
-[ 全员恶人 ](https://github.com/cryptolovehunt/cryptobounty)
+[ 全员恶人 ](https://gitlab.com/cryptolovehunt/cryptobounty)
