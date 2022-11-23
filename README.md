@@ -11,9 +11,9 @@
 
 | 汇总 | 更新 | 讨论中 |
 | :------------ |:---------------:| -----:|
-| [ KOL ](https://github.com/icryptohunter/cryptobounty/tree/main/KOL) | **xxxx记忆** | [币圈牛熊记忆](https://github.com/icryptohunter/cryptobounty/tree/main/KOL) |
-| [ 人物 ](https://github.com/icryptohunter/cryptobounty/tree/main/Publicfigure) | SBF | [ SBF ](https://github.com/icryptohunter/cryptobounty/tree/main/Publicfigure) |
-| [ 事件 ](https://github.com/icryptohunter/cryptobounty/tree/main/Case) | N/a | N/a |
+| [ KOL ](https://github.com/cryptolovehunt/cryptobounty/tree/main/kol) | **xxxx记忆** | [币圈牛熊记忆](https://github.com/cryptolovehunt/cryptobounty/tree/main/kol) |
+| [ 人物 ](https://github.com/cryptolovehunt/cryptobounty/tree/main/publicfigure) | SBF | [ SBF ](https://github.com/cryptolovehunt/cryptobounty/tree/main/publicfigure) |
+| [ 事件 ](https://github.com/cryptolovehunt/cryptobounty/tree/main/case) | N/a | N/a |
 
 
 ## 录档流程
@@ -25,4 +25,4 @@
 ```
 
 ## 备用地址（防失联）
-[ 全员恶人 ](https://github.com/icryptohunter/cryptobounty)
+[ 全员恶人 ](https://github.com/cryptolovehunt/cryptobounty)
